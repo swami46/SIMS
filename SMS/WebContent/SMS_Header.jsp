@@ -15,6 +15,7 @@
 <script src="Jquery/jquery-3.1.1.min.js"></script>
 <script src="Jquery/jquery-3.1.1.js"></script>
 <link rel="icon" href="Images/Image.jpg">
+<link rel="stylesheet" href="sms.css">
 </head>
 <body>
 	<div class="bg-primary">
@@ -31,12 +32,28 @@
 			</div>
 		</div>
 	</div>
+	
+	
+	
 
-
-
-
-
-
+	
+<nav class="navbar bg-info" >
+  <div class="container-fluid">
+  <div class="row">
+    <!-- <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div> -->
+    <ul class="nav navbar-nav" >
+    
+      <li> <a href="#">Home</a></li>
+    <li><a href="#">About Us</a></li>
+      <li><a href="#">Contact Us</a></li>
+      <li><a href="#">Login</a></li>
+      <li><a href="#">SignUp</a></li>
+    </ul>
+  </div>
+  </div>
+</nav>
 
 </body>
 </html>
